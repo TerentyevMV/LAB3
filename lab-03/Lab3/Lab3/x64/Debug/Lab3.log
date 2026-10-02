@@ -1,0 +1,16 @@
+﻿  Lab3.c
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.c(17,2): warning C4013: question1: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.c(19,2): warning C4013: question2: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.c(21,2): warning C4013: question2A: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.c(23,2): warning C4013: question3: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.c(61,27): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.c(64,27): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.c(67,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.c(55,8): warning C4101: result: неиспользованная локальная переменная
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.c(83,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.c(86,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.c(89,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.c(92,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.c(95,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.c(110,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Lab3.vcxproj -> C:\Users\User\source\repos\Lab3\x64\Debug\Lab3.exe
